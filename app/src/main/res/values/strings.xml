@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Dates Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="b_cancel">C</string>
+    <string name="b_backspace">B</string>
+    <string name="b_not_used_1">a?</string>
+    <string name="b_not_used_2">a?</string>
+    <string name="b_equal">=</string>
+    <string name="b_add">+</string>
+    <string name="b_sub">-</string>
+    <string name="b_one">1</string>
+    <string name="b_two">2</string>
+    <string name="b_three">3</string>
+    <string name="b_four">4</string>
+    <string name="b_five">5</string>
+    <string name="b_six">6</string>
+    <string name="b_seven">7</string>
+    <string name="b_eight">8</string>
+    <string name="b_nine">9</string>
+    <string name="b_zero">0</string>
+    <string name="b_dot">.</string>
+
+    <string name="error">Error</string>
+
+
+
+</resources>
