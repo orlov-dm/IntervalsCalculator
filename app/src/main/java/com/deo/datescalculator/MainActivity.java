@@ -242,12 +242,12 @@ public class MainActivity extends AppCompatActivity {
                         }
 
 
-                        if (isNegative) {
-                            equation = "-";
-                            equation += String.valueOf(totalYears) + '.' + String.valueOf(totalMonths) + '.' + String.valueOf(totalDays);
+                        if (!isNegative) {
+                            equation = "";
                         } else {
-                            equation = String.valueOf(totalYears) + '.' + String.valueOf(totalMonths) + '.' + String.valueOf(totalDays);
+                            equation = "-";
                         }
+                        equation += String.valueOf(totalYears) + '.' + String.valueOf(totalMonths) + '.' + String.valueOf(totalDays);
                     }
                 }
             }
